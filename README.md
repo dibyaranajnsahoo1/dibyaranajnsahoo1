@@ -1,4 +1,4 @@
-![logo](https://github.com/dibyaranajnsahoo1/dibyaranajnsahoo1/blob/main/Untitled.png)
+![logo]([https://github.com/dibyaranajnsahoo1/dibyaranajnsahoo1/blob/main/Untitled.png](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47bl3pm36wop7i1mq65xv7bfbqnxxh3bnkbjz0jwlj&rid=200.webp&ct=g))
 <h1 align="center">Hi 👋, I'm Dibay Ranjan sahoo</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
