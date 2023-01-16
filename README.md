@@ -1,4 +1,4 @@
-![logo](https://github.com/dibyaranajnsahoo1/dibyaranjan/blob/main/Untitled.png)
+![logo](https://github.com/dibyaranajnsahoo1/dibyaranajnsahoo1/blob/main/Untitled.png)
 <h1 align="center">Hi 👋, I'm Dibay Ranjan sahoo</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
